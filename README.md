@@ -7,7 +7,9 @@ Spring Boot Java17 PostgreSQL REST API
 ### Getting Started
 
 
-Gradle Commands
+Gradle Commands:
+
+
 
 ![alt text](gradlew-commands.png)
 
@@ -15,12 +17,17 @@ Gradle Commands
 
 
 
+
 Run the Application:
+
 
 ![alt text](gradlew-run-command.png)
 
 
 
-Build the Application
+
+Build the Application:
+
+
 
 ![alt text](gradlew-build-command.png)
